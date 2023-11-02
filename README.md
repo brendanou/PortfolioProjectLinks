@@ -2,7 +2,7 @@
 
 [Tekno (Final Year Project)] 
 Game Description - A PC 3D Action Rhythm Platformer game where music BPM plays a big role with the gameplay and environment in changeing the speed of the game
-Contribution 
+**Contribution** 
   - Level Building for Tutorial and Gameplay Scene
   - Environment reacts to music
     
@@ -19,7 +19,7 @@ information about the Script
 
 [On Shallow Waters (Mobile Game Project)]
 Game Description - 3d action rougelike dungeon-crawler mobile game 
-Contribution 
+**Contribution**
 - Helped out with Player Controls and Attack system
 
 Basic Attack code  - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/03%20Character/Player/DashNAttack.cs#L219-L281
@@ -41,7 +41,7 @@ Heavy Attack code - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb
   [Train Trap (2D PC Game)]
 Game Description - Narrative puzzle Game similar to the game called 12 minutes, where player exprience endless loop of the same event until they solve the narrative puzzle of the game to escape the loop
 
- Contribution 
+ **Contribution** 
  - Guard behaviors
      - Code Snippet: https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/Guard/GuardPatrol.cs#L24-L70
 
@@ -56,6 +56,22 @@ information about  the Script
 
 
 - Seamless Scene Transitions
-- Inventory System
-- Interactable Objects
+- **Inventory System**
+Information about this System
+- Handles picking up items and adding them to the inventory.
+
+  picking up items
+  **code snippet** : https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/interaction/Pickup.cs#L25-L57
+
+   Update slot Name 
+  **code Snippet** : https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/interaction/Pickup.cs#L58-L64
+
+  inventory
+  **code Snippet** :  https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/Inventory/Inventory.cs#L5-L9
+
+  Drop Items
+  **Code Snippet** : https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/Inventory/Slot.cs#L20-L34  
+
+
+
     
