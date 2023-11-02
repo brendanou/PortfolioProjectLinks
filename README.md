@@ -19,8 +19,10 @@ information about the Script
   - Movement is supported along the X, Y, and Z axes, with the extent of movement defined by MoveX, MoveY, MoveZ, and moveMod.
 
 
-[On Shallow Waters (Mobile Game Project)]
+*On Shallow Waters (Mobile Game Project)*
+
 Game Description - 3d action rougelike dungeon-crawler mobile game 
+
 **Contribution**
 - Helped out with Player Controls and Attack system
 
