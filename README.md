@@ -1,6 +1,6 @@
 # PortfolioProjectLinks
 
-#Tekno (Final Year Project) 
+***Tekno (Final Year Project)***
 
 Game Description - A PC 3D Action Rhythm Platformer game where music BPM plays a big role with the gameplay and environment in changeing the speed of the game
 
