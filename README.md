@@ -33,8 +33,8 @@ Game Description - 3d action rougelike dungeon-crawler mobile game
 
   Heavy Attack code - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/03%20Character/Player/DashNAttack.cs#L175C4-L211
 
-Information about the script 
-- Collaborated with a teammember into creating the attack controls for the game
+    Information about the script 
+    - Collaborated with a teammember into creating the attack controls for the game
   
 
 - Sound System
