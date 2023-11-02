@@ -24,6 +24,9 @@ information about the Script
 Game Description - 3d action rougelike dungeon-crawler mobile game 
 
 **Contribution**
+
+- VFXs For Abilities
+
 - Helped out with Player Controls and Attack system
 
   Basic Attack code  - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/03%20Character/Player/DashNAttack.cs#L219-L281
@@ -41,7 +44,7 @@ information about the script
 - This code simplifies audio management, allowing easy control of sound effects and background music in the game. It also enables developers to customize their audio experience by adjusting volume settings.
 
   
-- VFXs For Abilities
+
 
   [Train Trap (2D PC Game)]
 Game Description - Narrative puzzle Game similar to the game called 12 minutes, where player exprience endless loop of the same event until they solve the narrative puzzle of the game to escape the loop
