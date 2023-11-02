@@ -61,32 +61,33 @@ Game Description - Narrative puzzle Game similar to the game called 12 minutes, 
 - Guard behaviors
      - Code Snippet: https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/Guard/GuardPatrol.cs#L24-L70
 
-information about  the Script 
-- This code defines the behavior of a guard character in the game, managing their patrol route and interactions with the player.
-- Patrol Points: The guard follows a predefined patrol route, with waypoints represented as a list of transforms (**`points`**).
-- Player Interaction: The code checks for the player's presence in the guard's range and responds when the player interacts with certain objects (lockers).
-- Movement and Orientation:
-    - The guard moves between patrol points using **`Vector2.MoveTowards`**, adjusting its position according to a **`WalkSpeed`**.
-    - The guard's orientation changes based on the direction of movement, flipping its sprite.
-- **Patrol Loop**: The guard patrols between the waypoints in a loop, moving forward and backward along the patrol route.
-
+    information about  the Script 
+    - This code defines the behavior of a guard character in the game, managing their patrol route and interactions with the player.
+    - Patrol Points: The guard follows a predefined patrol route, with waypoints represented as a list of transforms (**`points`**).
+    - Player Interaction: The code checks for the player's presence in the guard's range and responds when the player interacts with certain objects (lockers).
+    - Movement and Orientation:
+        - The guard moves between patrol points using **`Vector2.MoveTowards`**, adjusting its position according to a **`WalkSpeed`**.
+        - The guard's orientation changes based on the direction of movement, flipping its sprite.
+    - **Patrol Loop**: The guard patrols between the waypoints in a loop, moving forward and backward along the patrol route.
+    
 
 
 - **Inventory System**
+  
 Information about this System
-- Handles picking up items and adding them to the inventory.
-
-  picking up items
-  **code snippet** : https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/interaction/Pickup.cs#L25-L57
-
-   Update slot Name 
-  **code Snippet** : https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/interaction/Pickup.cs#L58-L64
-
-  inventory
-  **code Snippet** :  https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/Inventory/Inventory.cs#L5-L9
-
-  Drop Items
-  **Code Snippet** : https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/Inventory/Slot.cs#L20-L34  
+  - Handles picking up items and adding them to the inventory.
+  
+    picking up items
+    **code snippet** : https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/interaction/Pickup.cs#L25-L57
+  
+     Update slot Name 
+    **code Snippet** : https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/interaction/Pickup.cs#L58-L64
+  
+    inventory
+    **code Snippet** :  https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/Inventory/Inventory.cs#L5-L9
+  
+    Drop Items
+    **Code Snippet** : https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/Inventory/Slot.cs#L20-L34  
 
 
 
