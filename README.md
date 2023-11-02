@@ -33,6 +33,10 @@ Game Description - 3d action rougelike dungeon-crawler mobile game
 
   Heavy Attack code - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/03%20Character/Player/DashNAttack.cs#L175C4-L211
 
+Information about the script 
+- Collaborated with a teammember into creating the attack controls for the game
+  
+
 - Sound System
   Sound System - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/00%20Audio_System/SoundManager.cs#L29-L81
 
@@ -46,11 +50,15 @@ information about the script
   
 
 
-  [Train Trap (2D PC Game)]
+*Train Trap (2D PC Game)*
+
 Game Description - Narrative puzzle Game similar to the game called 12 minutes, where player exprience endless loop of the same event until they solve the narrative puzzle of the game to escape the loop
 
  **Contribution** 
- - Guard behaviors
+
+- Seamless Scene Transitions
+
+- Guard behaviors
      - Code Snippet: https://github.com/qiuji10/Train_Trap/blob/7d9b8de532413b1c4b17433189d900726c519538/Assets/2_Scripts/Guard/GuardPatrol.cs#L24-L70
 
 information about  the Script 
@@ -63,7 +71,7 @@ information about  the Script
 - **Patrol Loop**: The guard patrols between the waypoints in a loop, moving forward and backward along the patrol route.
 
 
-- Seamless Scene Transitions
+
 - **Inventory System**
 Information about this System
 - Handles picking up items and adding them to the inventory.
