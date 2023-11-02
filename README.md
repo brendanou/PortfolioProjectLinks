@@ -37,7 +37,9 @@ Game Description - 3d action rougelike dungeon-crawler mobile game
     - Collaborated with a teammember into creating the attack controls for the game
   
 
-- Sound System - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/00%20Audio_System/SoundManager.cs#L29-L81
+- Sound System
+
+ Sound Manager - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/00%20Audio_System/SoundManager.cs#L29-L81
 
   Sound Data - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/00%20Audio_System/SoundData.cs#L6-L11
 
