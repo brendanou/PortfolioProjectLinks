@@ -37,12 +37,11 @@ Game Description - 3d action rougelike dungeon-crawler mobile game
     - Collaborated with a teammember into creating the attack controls for the game
   
 
-- Sound System
-  Sound System - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/00%20Audio_System/SoundManager.cs#L29-L81
+- Sound System - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/00%20Audio_System/SoundManager.cs#L29-L81
 
   Sound Data - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/00%20Audio_System/SoundData.cs#L6-L11
 
-  Soubnd file - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/00%20Audio_System/SoundFile.cs#L6-L15
+  Sound file - https://github.com/namejeb/on-shallow-waters/blob/02d6fe84eb2dbf5be95f6daef7594f6f8f81d5d6/OnShallowWaters/Assets/04%20Scripts/00%20Audio_System/SoundFile.cs#L6-L15
 
 information about the script 
 - This code simplifies audio management, allowing easy control of sound effects and background music in the game. It also enables developers to customize their audio experience by adjusting volume settings.
